@@ -29,3 +29,8 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 <img height="40" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png">
 </code>
 </div>
+
+## My Contact
+<a href="JoshLeez/VinzZ00 ">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
