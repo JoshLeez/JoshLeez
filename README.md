@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning on University of Putera Batam majoring Information System and focus on Front End Development.
 
+#Github Stas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshleez&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshleez&theme=radical)](https://github.com/joshleez/github-readme-stats)
+#Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshleez&theme=tokyonight)](https://github.com/joshleez/github-readme-stats)
+I mainly focus on HTML, CSS, and Javascript with React Library<code><img src-"https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="30"> </code>.
