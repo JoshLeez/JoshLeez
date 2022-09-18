@@ -10,6 +10,7 @@
 <div>
 I mainly focus on HTML, CSS, and Javascript with React Library<code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"> </code>.
 </div>
+
 ## Languages and Tools
 <div>
 <code>
