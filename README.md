@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshleez&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshleez)](https://github.com/joshleez/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshleez&theme=radical)](https://github.com/joshleez/github-readme-stats)
