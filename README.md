@@ -7,4 +7,6 @@
 
 #Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshleez&theme=tokyonight)](https://github.com/joshleez/github-readme-stats)
+<div>
 I mainly focus on HTML, CSS, and Javascript with React Library<code><img src-"https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="30"> </code>.
+</div>
