@@ -31,6 +31,6 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 </div>
 
 ## Contact me
-<a href="JoshLeez/VinzZ00 ">
+<a href="https://www.linkedin.com/in/josh-lee-6522b1117/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
