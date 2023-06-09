@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning on University of Putera Batam majoring Information System and focus on Front End Development.
+- 🌱 I’m currently learning on University of Putera Batam majoring Information System and focus on Full Stack Programming.
 
 ## Github Stas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshleez&show_icons=true&theme=tokyonight&count_private=true)
