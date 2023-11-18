@@ -13,7 +13,7 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 
 ## Languages and Tools
 <div>
-<code>
+<code style="flex-container">
 <img height="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
 <img height="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
 <img height="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
