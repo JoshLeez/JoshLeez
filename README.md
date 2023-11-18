@@ -13,7 +13,7 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 
 ## Languages and Tools
 <div>
-<code style="flex:1">
+<code>
 <img height="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
 <img height="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
 <img height="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
@@ -23,7 +23,7 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 
 ## CSS Framework
 <div>
-<code>
+<code style="display: flex">
 <img height="40" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png">
 <img height="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
 <img height="40" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png">
@@ -33,4 +33,4 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 ## Contact me
 <a href="https://www.linkedin.com/in/josh-lee-6522b1117/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+</a>
