@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/1d3f7780-5319-4cf2-a5f2-a86055a711b0)### Hi there 👋
 
 - 🌱 I’m a Fresh graduate student on University of Putera Batam majoring Information System and focus on Full Stack Programming.
 
@@ -26,7 +26,7 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 
 <div>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img height="40" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"></code>
 </div>
 
 
