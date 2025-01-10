@@ -14,20 +14,21 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 ## Languages and Tools
 
 <div>
-  <code><img height="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png"></code>
-  <code><img height="40" src="https://seeklogo.com/images/P/php-logo-ADE0FBBAFB-seeklogo.com.png"></code>
-  <code><img height="40" src="https://seeklogo.com/images/L/laravel-logo-F03451DDC5-seeklogo.com.png"></code>
-  <code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
-  <code><img height="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
-  <code><img height="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 </div>
 
 ## CSS Frameworks
 
 <div>
-  <code><img height="40" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"></code>
-  <code><img height="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
 </div>
+
 
 ## Contact me
 <a href="https://www.linkedin.com/in/josh-lee-6522b1117/">
