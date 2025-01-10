@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1d3f7780-5319-4cf2-a5f2-a86055a711b0)### Hi there 👋
+### Hi there 👋
 
 - 🌱 I’m a Fresh graduate student on University of Putera Batam majoring Information System and focus on Full Stack Programming.
 
