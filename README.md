@@ -12,22 +12,21 @@ I mainly focus on HTML, CSS, and Javascript with React Library<code><img height=
 </div>
 
 ## Languages and Tools
+
 <div>
-<code>
-<img height="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
-<img height="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
-<img height="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
-<img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
-</code>
+  <code><img height="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png"></code>
+  <code><img height="40" src="https://seeklogo.com/images/P/php-logo-ADE0FBBAFB-seeklogo.com.png"></code>
+  <code><img height="40" src="https://seeklogo.com/images/L/laravel-logo-F03451DDC5-seeklogo.com.png"></code>
+  <code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
+  <code><img height="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
+  <code><img height="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
 </div>
 
-## CSS Framework
+## CSS Frameworks
+
 <div>
-<code style="display: flex">
-<img height="40" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png">
-<img height="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
-<img height="40" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png">
-</code>
+  <code><img height="40" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"></code>
+  <code><img height="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
 </div>
 
 ## Contact me
