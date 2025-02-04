@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a Fresh graduate student on University of Putera Batam majoring Information System and focus on Full Stack Programming.
+- 🌱 I’m a Alumni on University of Putera Batam majoring Information System and focus on Full Stack Programming.
 
 ## Github Stas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshleez&show_icons=true&theme=tokyonight&count_private=true)
