@@ -17,8 +17,8 @@ I excel at delivering production-ready solutions across diverse technologies:
     <img title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img title="Express.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img title="Laravel" height="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png">
-    <img title="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img title="Laravel" height="40" src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies.png">
+    <img title="PHP" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uPQaoDJUaktjDuuOz8b3Nox1OZ62zSM03A&s">
     <img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -33,13 +33,8 @@ I excel at delivering production-ready solutions across diverse technologies:
     <img title="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
-## Featured Projects & Experience Highlights
-
--   **Full-Stack E-commerce (MERN):** Developed and deployed a complete e-commerce platform using **React.js, Node.js/Express.js, and MySQL** for user authentication and order management. *(Link to Repo)*
--   **IoT Systems Integration:** Engineered a **C++-based IoT RFID Scanning System (using ESP32)** for real-time logistics and inventory tracking in a manufacturing environment.
--   **R&D Software Engineering:** Customized **Automated Test Equipment (ATE)** software scripts for manufacturing quality control and product parameter recalibration.
 
 ## Contact me
-<a href="https://www.linkedin.com/in/josh-lee-6522b1117/">
+<a href="https://www.linkedin.com/in/joshlee3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
